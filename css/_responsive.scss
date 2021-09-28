@@ -1,0 +1,183 @@
+@media (max-width: 768px) { 
+    #paybal{
+        width: 100%;
+        height: 100%;
+        .box{
+            margin-bottom: 70px;
+        }
+    }
+
+    #us{
+        width: 100%;
+        height: 100%;
+        background-size: contain;
+    }
+    #testimon{
+        width: 100%;
+        height: 100%;
+        padding-bottom: 50px;
+    }
+    #service{
+        width: 100%;
+        height: 100%;
+        padding-bottom: 20px;
+        // background-color: red;
+        // .service-box{
+        //     margin-top: 40px;
+        // }
+        
+    }
+
+    #company{
+        width: 100%;
+        height: 100%;
+        .company-left{
+            padding: 10px;
+        }
+        .company-right{
+            text-align: center;
+            padding: 20px;
+            // .company-right-box1{
+            //     width: 60%;
+            // }
+
+            // .company-right-box2{
+            //     width: 60%;
+            // }
+
+            // .company-right-box3{
+            //     width: 60%;
+            // }
+        }
+    }
+
+    #leader{
+        width: 100%;
+        height: 100%;
+    }
+
+    #target{
+        width: 100%;
+        height: 100%;
+    }
+
+    #exec{
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media (min-width: 767px) and (max-width: 998px){
+    #testimon{
+        width: 100%;
+        height: 100%;
+    }
+
+    #exec{
+        width: 100%;
+        height: 100%;
+    }
+    #service{
+        width: 100%;
+        height: 100%;
+        padding-bottom: 20px;
+    }
+
+    #company{
+        // margin-top: 30px;
+        width: 100%;
+        height: 100%;
+        .company-left{
+            padding: 10px;
+        }
+        .company-right{
+            text-align: center;
+            padding: 20px;
+        }
+    }
+
+    #leader{
+        width: 100%;
+        height: 100%;
+        padding-top: 20%;
+    }
+
+    #target{
+        width: 100%;
+        height: 100%;
+    }
+}
+
+
+@media (min-width: 998px) and (max-width: 1200px){
+    #exec{
+        width: 100%;
+        height: 100%;
+    }
+    #service{
+        width: 100%;
+        height: 100%;
+        padding-bottom: 20px;
+
+       
+    }
+
+    #company{
+        width: 100%;
+        height: 100%;
+        .company-left{
+            padding: 10px;
+        }
+        .company-right{
+            text-align: center;
+            padding: 20px;
+        }
+    }
+
+    #target{
+        width: 100%;
+        height: 100%;
+    }
+}
+
+@media (min-width: 1200px){
+
+    #exec{
+        width: 100%;
+        height: 100%;
+    }
+
+    #service{
+        width: 100%;
+        height: 100%;
+        padding-bottom: 20px;
+
+        
+    }
+
+    #company{
+        width: 100%;
+        height: 100%;
+        .company-left{
+            padding: 10px;
+        }
+        .company-right{
+            text-align: center;
+            padding: 20px;
+        }
+    }
+
+    #leader{
+        width: 100%;
+        height: 100%;
+    }
+
+    #target{
+        width: 100%;
+        height: 100%;
+    }
+}
+
+
+
+
